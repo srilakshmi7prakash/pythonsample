@@ -9,5 +9,3 @@ elif c>a and c>b:
     print("c is the largest")
 elif a==b==c:
     print('all are eaqual')
-else:
-    print("invalid")
